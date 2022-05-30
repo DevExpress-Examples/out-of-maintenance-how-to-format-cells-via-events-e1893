@@ -1,5 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPxPivotGrid_FormattingCellsViaEvents", "ASPxPivotGrid_FormattingCellsViaEvents\ASPxPivotGrid_FormattingCellsViaEvents.csproj", "{2AB7E298-1E3F-4691-B16F-D86BA397D6D1}"
 EndProject
 Global
@@ -15,5 +17,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7151C21-3D31-4A29-806B-65F8BE049A41}
 	EndGlobalSection
 EndGlobal
